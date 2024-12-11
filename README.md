@@ -1,2 +1,2 @@
 # course-work
-Hello! This is my course work for university.
+Привет! Это моя курсовая работа в унирвеситете. Здесь решены две задачи на тему ООП в питоне. 
