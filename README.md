@@ -1,4 +1,8 @@
 # Курсовая работа: Геометрические и алгебраические задачи на Python
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen)](https://github.com/bequinG0/university-coursework/actions)
+
 
 ## Описание
 
